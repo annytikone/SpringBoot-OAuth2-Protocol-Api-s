@@ -1,7 +1,7 @@
 # SpringBoot-OAuth2-Protocol-Api-s
 This project is about Online Library Management System using OAUTH2 Authenticated Tokenization
 I've built this project to understand how oauth2/token authentication protocols works using Java's Spring boot framework.,
-I've also included JdbcTemplate inside of this project.
+I've also included JPA+Hibernate for Crud operations inside of this project.
  here's an reference to my simple,mysql db->
  
  
